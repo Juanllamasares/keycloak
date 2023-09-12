@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "jwt.auth.converter.resource-id",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.converter.resource-id'"
+  },
+  {
+    "name": "jwt.auth.converter.principal-attribute",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.converter.principal-attribute'"
+  },
+  {
+    "name": "keycloak.realm",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.realm'"
+  },
+  {
+    "name": "keycloak.auth-server-url",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.auth-server-url'"
+  },
+  {
+    "name": "keycloak.ssl-required",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.ssl-required'"
+  },
+  {
+    "name": "keycloak.resource",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.resource'"
+  },
+  {
+    "name": "keycloak.credentials.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.credentials.secret'"
+  }
+]}
